@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/StateMachine/Scenes/SMScene.unity
+  isLoaded: 1
+  isActive: 1
